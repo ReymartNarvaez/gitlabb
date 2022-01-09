@@ -27,5 +27,11 @@
     git commit -m "Added fix2.txt"
 13. git switch main 
 14. git cherry-pick 5ea6889601eb0097b8081b654f64193bc9698e62
+15. added text for fix2.txt
+    git add fix2.txt
+    git commit -m "Added step by step for git labb"
+16. git remote add origin https://github.com/ReymartNarvaez/gitlabb.git
+    git push origin main
+
     
     
